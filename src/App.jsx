@@ -114,8 +114,6 @@ function App() {
           </div>
         </div>
 
-        
-
         {/* Change Password */}
         <div className="section">
           <h3 className="section-title">Change Password</h3>
@@ -152,12 +150,15 @@ function App() {
               <span className="slider"></span>
             </label>
           </div>
-         
-        
 
+          <div className="toggle-item">
+            <span>Block Silent Calls</span>
+            <label className="switch">
+              <input type="checkbox" checked={blockSilentCalls} onChange={() => setBlockSilentCalls(!blockSilentCalls)} />
+              <span className="slider"></span>
+            </label>
+          </div>
         </div>
-
-        
       </div>
     </div>
   );
