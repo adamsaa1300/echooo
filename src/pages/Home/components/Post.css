@@ -1,0 +1,51 @@
+.post-card {
+
+    overflow: hidden;
+    margin-bottom: 24px;
+    background: white;
+    transition: all 0.2s;
+    border-radius: 22px !important;
+    border: 2px solid #3b2a1f !important;
+
+
+
+
+}
+
+.post-card:hover {
+    box-shadow: 0 8px 30px#3b2a20;
+}
+
+.post-image-container {
+    border-radius: 18px;
+    overflow: hidden;
+    margin-top: 16px;
+}
+
+.post-image {
+    width: 100%;
+    display: block;
+}
+
+.post-actions {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+
+    padding: 8px 16px;
+}
+
+.count {
+    font-size: 14px;
+    color: #65676b;
+    margin-left: -8px;
+}
+
+
+
+
+
+.like-active {
+    color: #b81304 !important;
+
+}

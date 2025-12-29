@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "Fatima Sholi",
+      "handle": "@fatima",
+      "content": "Good Morning",
+      "time": "2h"
+    },
+    {
+      "id": "2",
+      "username": "Zamorda",
+      "handle": "@zamorda",
+      "content": "hiiiiiiiiii",
+      "time": "5h"
+    },
+    {
+      "id": "85da",
+      "username": "You",
+      "handle": "@you",
+      "content": "لب",
+      "time": "now"
+    },
+    {
+      "id": "41b2",
+      "username": "You",
+      "handle": "@you",
+      "content": "ابلةةباةايلة",
+      "time": "now"
+    },
+    {
+      "id": "10fb",
+      "username": "You",
+      "handle": "@you",
+      "content": "لاىبلةباة",
+      "time": "now"
+    }
+  ]
+}

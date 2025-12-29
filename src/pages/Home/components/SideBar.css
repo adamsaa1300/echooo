@@ -1,0 +1,94 @@
+.sidebar-card {
+    background: white;
+    border-radius: 50px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+
+    border: 3px solid #3b2a20;
+
+    border-radius: 22px !important;
+
+}
+
+.sidebar-title {
+    font-size: 19px;
+    margin-bottom: 16px;
+    color: #3b2a20;
+    font-weight: 600 !important;
+
+}
+
+.suggestion-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 8px;
+    border-radius: 12px;
+    background: transparent !important;
+    margin-bottom: 4px;
+    font-weight: 600 !important;
+}
+
+.suggestion-item:hover {
+    background: #f5f5f5;
+}
+
+.suggestion-info {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    font-weight: 600 !important;
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+    color: #3b2a20;
+
+}
+
+.suggestion-avatar {
+    width: 50px;
+    height: 50px;
+    margin-right: 12px;
+    border: 2px solid #eee;
+}
+
+.suggestion-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 8px;
+    border-radius: 12px;
+    font: bold;
+    margin-bottom: 4px;
+
+
+}
+
+.suggestion-item:hover {
+    box-shadow: 0 8px 30px#3b2a20;
+
+
+}
+
+.suggestion-handle {
+    color: #555;
+    font-size: 14px;
+}
+
+.follow-btn {
+    background: #3b2a20 !important;
+    color: #fff !important;
+    border-radius: 999px !important;
+    padding: 8px 20px !important;
+    font-weight: 700 !important;
+    font-size: 14px !important;
+    min-width: 90px;
+}
+
+.follow-btn:hover {
+    background: #3b2a20 !important;
+}
+
+.suggestion-text {
+    margin-right: 16px;
+    font: bolder;
+
+}

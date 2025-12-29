@@ -1,0 +1,43 @@
+.create-post-card {
+    background: #fff;
+    border: 2px solid #3b2a1f;
+    border-radius: 30px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.create-post-header {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.create-post-header input {
+    flex: 1;
+    border: none;
+    font-size: 16px;
+    outline: none;
+    background: transparent;
+}
+
+.avatar {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: #ccc;
+}
+
+.create-post-actions {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+
+.create-post-actions button {
+    background: #3b2a1f;
+    color: white;
+    border: none;
+    padding: 6px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+}
