@@ -1,0 +1,62 @@
+/* Auth.css - جديد ومحسن */
+
+.auth-page-wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #f8f3eb;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.logo-large {
+    font-size: 70px;
+    font-weight: bold;
+    color: #3b2a20;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.auth-container {
+    background: white;
+    padding: 50px 30px;
+    border-radius: 30px;
+    width: 330px;
+    max-width: 90%;
+    text-align: center;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.12);
+}
+
+.title {
+    font-size: 26px;
+    margin: 20px 0 30px;
+    color: #3b2a20;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+input {
+    padding: 14px;
+    border: 1px solid #3b2a20;
+    border-radius: 12px;
+    font-size: 16px;
+    background: #fcfcfc;
+}
+
+.switch-text {
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.switch-text a {
+    color: #3b2a20;
+    text-decoration: none;
+    font-weight: 800;
+}
