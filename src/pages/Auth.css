@@ -6,7 +6,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: #f8f3eb;
+    background: #fffdfa;
     padding: 20px;
     box-sizing: border-box;
     font-family: 'DM Sans', sans-serif;
@@ -47,7 +47,7 @@ input {
     border: 1px solid #3b2a20;
     border-radius: 12px;
     font-size: 16px;
-    background: #fcfcfc;
+    background: #cfc8c8;
 }
 
 .switch-text {
